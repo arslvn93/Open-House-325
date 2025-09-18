@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "1011 Whitney Road",
     "city": "North Grenville (Kemptville)",
@@ -104,6 +104,7 @@
     "repoName": "Open-House-325",
     "repoUrl": "https://github.com/arslvn93/Open-House-325",
     "tag": "Open House 1011 Whitney Road",
-    "siteId": "1059708008"
+    "siteId": "1059708008",
+    "netlify": "0f72a2b9-8f69-40c6-ac04-f5b0f07c5e56"
   }
 }
