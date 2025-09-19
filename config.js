@@ -35,7 +35,7 @@ const config = {
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": "",
+    "logoUrl": "https://iili.io/K7US6mv.webp",
     "address": "218 Brant Avenue, Brantford ON N3T 3H9"
   },
   "openHouse": {
