@@ -26,7 +26,7 @@ const config = {
     "phone": "(613) 706-0066",
     "email": "christine@driscollpeca.com",
     "bio": "Driscoll-Peca Team at Real Broker LTD.",
-    "photoUrl": "https://iili.io/K7Uhmdl.webp",
+    "photoUrl": "https://iili.io/K7Us29t.webp",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
