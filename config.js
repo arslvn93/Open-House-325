@@ -26,7 +26,7 @@ const config = {
     "phone": "(613) 706-0066",
     "email": "christine@driscollpeca.com",
     "bio": "Driscoll-Peca Team at Real Broker LTD.",
-    "photoUrl": null,
+    "photoUrl": "",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
@@ -35,15 +35,23 @@ const config = {
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": null,
+    "logoUrl": "",
     "address": "218 Brant Avenue, Brantford ON N3T 3H9"
   },
   "openHouse": {
     "eventDate": "2025-09-20",
     "bundleItems": [
       {
-        "icon": "fas fa-link",
-        "text": "Full Property Listing"
+        "icon": "",
+        "text": "5 Bedrooms"
+      },
+      {
+        "icon": "",
+        "text": "Oversized corner lot"
+      },
+      {
+        "icon": "",
+        "text": "Mature neighbourhood"
       }
     ]
   },
@@ -67,36 +75,72 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
@@ -105,6 +149,7 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Open-House-325",
     "tag": "Open House 1011 Whitney Road",
     "siteId": "1059708008",
-    "netlify": "0f72a2b9-8f69-40c6-ac04-f5b0f07c5e56"
+    "netlify": "0f72a2b9-8f69-40c6-ac04-f5b0f07c5e56",
+    "netlifyUrl": ""
   }
-}
+};
