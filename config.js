@@ -42,8 +42,8 @@ const config = {
     "eventDate": "2025-09-20",
     "bundleItems": [
       {
-        "icon": "fas fa-link",
-        "text": "https://sites.ground2airmedia.com/sites/oprrmrp/unbranded"
+        "icon": "https://sites.ground2airmedia.com/sites/oprrmrp/unbranded",
+        "text": ""
       }
     ]
   },
