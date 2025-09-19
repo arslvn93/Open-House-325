@@ -29,7 +29,7 @@ const config = {
     "photoUrl": "https://iili.io/K7Us29t.webp",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/ae.parks",
+      "instagram": "https://www.instagram.com/driscollpecateam/",
       "website": "https://driscollpeca.com/"
     }
   },
