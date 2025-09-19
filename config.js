@@ -42,8 +42,12 @@ const config = {
     "eventDate": "2025-09-20",
     "bundleItems": [
       {
-        "icon": "https://sites.ground2airmedia.com/sites/oprrmrp/unbranded",
-        "text": ""
+        "icon": "",
+        "text": "1 acre of affordable country living"
+      },
+      {
+        "icon": "",
+        "text": "Great opportunity for someone with vision whether you're looking to renovate, replace, or rebuild."
       }
     ]
   },
